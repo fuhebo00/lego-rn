@@ -1,6 +1,6 @@
 {
   "name": "@lego/rn",
-  "version": "2.0.0",
+  "version": "3.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/fuhebo00/lego-rn/issues"
   },
-  "homepage": "https://github.com/fuhebo00/lego-rn#readme"
+  "homepage": "https://github.com/fuhebo00/lego-rn#readme",
+  "dependencies": {
+    "@core/rn": "3.0.0"
+  }
 }
